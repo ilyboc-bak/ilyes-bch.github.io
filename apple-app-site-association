@@ -1,20 +1,28 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "688CTWJ7T6.com.evolany.AnybotSDKSample",
-        "paths": [
-          "/",
-          "/line"
-        ]
-      }
-    ]
-  },
-  "webcredentials": {
-    "apps": ["688CTWJ7T6.com.evolany.AnybotSDKSample"]
-  },
-  "appclips": {
-    "apps": ["688CTWJ7T6.com.evolany.AnybotSDKSample"]
-  }
+      "details": [
+           {
+             "appIDs": [ "688CTWJ7T6.com.evolany.AnybotSDKSample" ],
+             "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+               },
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL with a path that starts with /buy/."
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "688CTWJ7T6.com.evolany.AnybotSDKSample" ]
+   },
+
+
+    "appclips": {
+        "apps": ["688CTWJ7T6.com.evolany.AnybotSDKSample"]
+    }
 }
