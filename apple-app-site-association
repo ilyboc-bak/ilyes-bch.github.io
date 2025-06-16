@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.evolany.AnybotSDKSample",
+        "paths": [
+          "/",
+          "/line"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["com.evolany.AnybotSDKSample"]
+  },
+  "appclips": {
+    "apps": ["com.evolany.AnybotSDKSample"]
+  }
+}
