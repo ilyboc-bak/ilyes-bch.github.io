@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.evolany.AnybotSDKSample",
+        "appID": "688CTWJ7T6.com.evolany.AnybotSDKSample",
         "paths": [
           "/",
           "/line"
@@ -12,9 +12,9 @@
     ]
   },
   "webcredentials": {
-    "apps": ["com.evolany.AnybotSDKSample"]
+    "apps": ["688CTWJ7T6.com.evolany.AnybotSDKSample"]
   },
   "appclips": {
-    "apps": ["com.evolany.AnybotSDKSample"]
+    "apps": ["688CTWJ7T6.com.evolany.AnybotSDKSample"]
   }
 }
